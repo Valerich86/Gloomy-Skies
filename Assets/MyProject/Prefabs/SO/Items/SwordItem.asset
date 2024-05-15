@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b17536f60a43f40bc2add9331e0e86, type: 3}
+  m_Name: SwordItem
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 19
+  <Tytle>k__BackingField: "\u041C\u0435\u0447"
+  <Assignment>k__BackingField: 0
+  <Type>k__BackingField: 0
+  <Clone>k__BackingField: {fileID: 9108994757721789619, guid: e371aa10c6be04a48bc5e59ad71148c1,
+    type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 6779555880e7c474581939c9af045c64,
+    type: 3}
+  <Description>k__BackingField: "\u0422\u043E\u043B\u044C\u043A\u043E \u0431\u043B\u0438\u0436\u043D\u0438\u0439
+    \u0431\u043E\u0439. \u0423\u0440\u043E\u043D - 20"
+  <Price>k__BackingField: 5000
+  HealPercents: 0
+  WeaponSO: {fileID: 11400000, guid: a544873d78363b148938d9bc60b9df50, type: 2}

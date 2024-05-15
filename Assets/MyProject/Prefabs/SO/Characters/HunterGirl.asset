@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2a9594ae3fcc8c418e816a2ad8e7f9f, type: 3}
+  m_Name: HunterGirl
+  m_EditorClassIdentifier: 
+  <Type>k__BackingField: 1
+  <Clone>k__BackingField: {fileID: 1089412640639766619, guid: 0a8954efc02ea1a40b8191865d1dff61,
+    type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: b0647f8e5f9586b4a887d50743e769f5,
+    type: 3}
+  <Speed>k__BackingField: 5
+  <RotationSpeed>k__BackingField: 100
+  <MaxJumpForce>k__BackingField: 1.2
+  <Weapon>k__BackingField: {fileID: 11400000, guid: 1585fd52889693f468a773c3541e58c0,
+    type: 2}
+  <MaxHP>k__BackingField: 300
+  <StartMoney>k__BackingField: 1000
+  <SuperStrikeDuration>k__BackingField: 13
+  <SuperStrikeOneHitDamage>k__BackingField: 15
+  <SuperStrikeRange>k__BackingField: 25
+  Shield: {fileID: 0}

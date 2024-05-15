@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2a9594ae3fcc8c418e816a2ad8e7f9f, type: 3}
+  m_Name: Rogue
+  m_EditorClassIdentifier: 
+  <Type>k__BackingField: 0
+  <Clone>k__BackingField: {fileID: 7953232805503769211, guid: 4f8ee3e827e21b7498d803cb63f16215,
+    type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: c1f7f27377869da4e9a481ae907af164,
+    type: 3}
+  <Speed>k__BackingField: 5
+  <RotationSpeed>k__BackingField: 100
+  <MaxJumpForce>k__BackingField: 1.2
+  <Weapon>k__BackingField: {fileID: 11400000, guid: 82a783c82ee622a4bbfc4c7dd9d7295d,
+    type: 2}
+  <MaxHP>k__BackingField: 400
+  <StartMoney>k__BackingField: 10000
+  <SuperStrikeDuration>k__BackingField: 13
+  <SuperStrikeOneHitDamage>k__BackingField: 20
+  <SuperStrikeRange>k__BackingField: 25
+  Shield: {fileID: 0}

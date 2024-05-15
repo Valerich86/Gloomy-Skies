@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a50affd27ed704e4fa0430db4fdc2423, type: 3}
+  m_Name: CombatAxe
+  m_EditorClassIdentifier: 
+  <Type>k__BackingField: 2
+  <Damage>k__BackingField: 30
+  <Cooldown>k__BackingField: 1.8
+  <MeleeRange>k__BackingField: 1.7
+  PlayerArrowClone: {fileID: 0}
+  EnemyArrowClone: {fileID: 0}
+  BowShotForce: 0
+  StartArrowAmount: 0
+  AxeClone: {fileID: 4157170367115568931, guid: 750dc456ad4b79444a1e980d1604b88f,
+    type: 3}
+  ForceZ: 100
+  ForceY: 50

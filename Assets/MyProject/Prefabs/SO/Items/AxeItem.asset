@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b17536f60a43f40bc2add9331e0e86, type: 3}
+  m_Name: AxeItem
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 2
+  <Tytle>k__BackingField: "\u0422\u043E\u043F\u043E\u0440"
+  <Assignment>k__BackingField: 0
+  <Type>k__BackingField: 0
+  <Clone>k__BackingField: {fileID: 5802835458651409779, guid: 1ee261fc964e5ba459960f8a1c59c52a,
+    type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 8893e3e630e24d94aa7b6808279ce4a8,
+    type: 3}
+  <Description>k__BackingField: "\u0422\u043E\u043B\u044C\u043A\u043E \u0431\u043B\u0438\u0436\u043D\u0438\u0439
+    \u0431\u043E\u0439. \u0423\u0440\u043E\u043D - 10"
+  <Price>k__BackingField: 1000
+  HealPercents: 0
+  WeaponSO: {fileID: 11400000, guid: d29f813f6a4984d49a8a425637114384, type: 2}
